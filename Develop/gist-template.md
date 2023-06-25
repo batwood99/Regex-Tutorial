@@ -1,10 +1,16 @@
-# Title (replace with your title)
+# Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+Welcome to the Regex Tutorial! In this tutorial, we will explore a specific regular expression (regex) pattern that allows us to match a combination of a word and digits. We will break down each component of the regex pattern and explain its functionality. By the end of this tutorial, you will have a clear understanding of how to use this regex pattern to search for specific patterns in strings.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+In this tutorial, we will be focusing on a regex pattern that matches a string consisting of a word followed by a space and then a series of digits. The regex pattern is as follows:
+
+\```regex
+^([A-Za-z]+)\s(\d+)$
+\```
+
+We will discuss each component of the regex pattern and understand how it contributes to the overall matching process.
 
 ## Table of Contents
 
