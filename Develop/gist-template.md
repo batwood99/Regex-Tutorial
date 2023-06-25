@@ -70,7 +70,21 @@ Grouping and capturing allow us to isolate parts of a regex match. In our patter
 
 Bracket expressions in regex allow us to define a set of characters enclosed within square brackets. Our pattern does not include bracket expressions.
 
+### Greedy and Lazy Match
 
+Greedy and lazy matching in regex specify how much of the input should be matched. Our pattern does not explicitly demonstrate greedy or lazy matching.
+
+### Boundaries
+
+Boundaries in regex allow us to match specific positions in a string, such as the beginning or end of a word. Our pattern does not include boundaries.
+
+### Back-references
+
+Back-references in regex allow us to refer to previously captured groups within the pattern. Our pattern does not utilize back-references.
+
+### Look-ahead and Look-behind
+
+Look-ahead and look-behind assertions in regex allow us to specify conditions that must be met ahead or behind the current position. Our pattern does not involve look-ahead or look-behind.
 
 ## Author
 
